@@ -40,7 +40,7 @@ Configuration
 
 To enter your work instruction template, you need to:
 
--  go to Management Systems > Configuration > Categories
+-  go to Management Systems > Documentation > Work Instructions
 -  select the Work Instructions category and edit the template
 
 Bug Tracker
@@ -65,22 +65,33 @@ Contributors
 ------------
 
 -  Savoir-faire Linux <support@savoirfairelinux.com>
+
 -  Gervais Naoussi <gervaisnaoussi@gmail.com>
+
 -  Eugen Don <eugen.don@don-systems.de>
+
 -  Jose Maria Alzaga <jose.alzaga@aselcis.com>
+
 -  `Tecnativa <https://www.tecnativa.com>`__:
 
    -  Ernesto Tejeda
 
-Trobz
+-  `Trobz <https://www.trobz.com>`__:
 
--  Dung Tran <dungtd@trobz.com>
+   -  Dung Tran <dungtd@trobz.com>
+   -  Khoi (Kien Kim) <khoikk@trobz.com>
+
 -  Yvan Dotet <yvan.dotet@logicasoft.eu>
 
 Other credits
 -------------
 
 The development of this module has been financially supported by:
+
+-  Camptocamp
+
+The migration of this module from 16.0 to 18.0 was financially supported
+by:
 
 -  Camptocamp
 
