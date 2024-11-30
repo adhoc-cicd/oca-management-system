@@ -1,2 +1,0 @@
-odoo-addon-document_page @ git+https://github.com/OCA/knowledge.git@refs/pull/504/head#subdirectory=document_page
-odoo-addon-document_knowledge @ git+https://github.com/OCA/knowledge.git@refs/pull/503/head#subdirectory=document_knowledge
