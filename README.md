@@ -23,6 +23,7 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [document_page_procedure](document_page_procedure/) | 18.0.1.0.0 |  | Document Management - Wiki - Procedures
 [document_page_quality_manual](document_page_quality_manual/) | 18.0.1.0.0 |  | Quality Manual
+[document_page_work_instruction](document_page_work_instruction/) | 18.0.1.0.0 |  | Document Management - Wiki - Work Instructions
 [mgmtsystem](mgmtsystem/) | 18.0.1.0.0 |  | Management System
 [mgmtsystem_action](mgmtsystem_action/) | 18.0.1.0.0 |  | Management System - Action
 [mgmtsystem_manual](mgmtsystem_manual/) | 18.0.1.0.0 |  | Management System - Manual
