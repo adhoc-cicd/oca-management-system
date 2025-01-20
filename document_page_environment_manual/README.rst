@@ -73,6 +73,7 @@ Contributors
   - Fernando La Chica <fernando.lachica@guadaltech.es>
 
 - Yvan Dotet <yvan.dotet@logicasoft.eu>
+- [Heliconia Solutions Pvt. Ltd.](https://www.heliconia.io)
 
 Maintainers
 -----------
