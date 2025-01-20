@@ -70,6 +70,8 @@ Contributors
 
   - Fernando La Chica <fernando.lachica@guadaltech.es>
 
+- [Heliconia Solutions Pvt. Ltd.](https://www.heliconia.io)
+
 Maintainers
 -----------
 
