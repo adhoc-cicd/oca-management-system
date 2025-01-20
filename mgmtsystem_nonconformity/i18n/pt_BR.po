@@ -588,6 +588,9 @@ msgstr "Próximo tipo de atividade"
 #: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_document_page__non_conformity_ids
 #: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_gamification_badge__non_conformity_ids
 #: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_gamification_challenge__non_conformity_ids
+#: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_hr_department__non_conformity_ids
+#: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_hr_employee__non_conformity_ids
+#: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_hr_job__non_conformity_ids
 #: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_iap_account__non_conformity_ids
 #: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_mail_blacklist__non_conformity_ids
 #: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_mail_thread__non_conformity_ids
@@ -637,6 +640,9 @@ msgstr "Não conformidade"
 #: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_document_page__non_conformity_count
 #: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_gamification_badge__non_conformity_count
 #: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_gamification_challenge__non_conformity_count
+#: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_hr_department__non_conformity_count
+#: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_hr_employee__non_conformity_count
+#: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_hr_job__non_conformity_count
 #: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_iap_account__non_conformity_count
 #: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_mail_blacklist__non_conformity_count
 #: model:ir.model.fields,field_description:mgmtsystem_nonconformity.field_mail_thread__non_conformity_count
