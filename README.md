@@ -27,6 +27,7 @@ addon | version | maintainers | summary
 [document_page_work_instruction](document_page_work_instruction/) | 18.0.1.0.0 |  | Document Management - Wiki - Work Instructions
 [mgmtsystem](mgmtsystem/) | 18.0.1.0.0 |  | Management System
 [mgmtsystem_action](mgmtsystem_action/) | 18.0.1.0.0 |  | Management System - Action
+[mgmtsystem_info_security_manual](mgmtsystem_info_security_manual/) | 18.0.1.0.0 |  | Information Security Management System Manual
 [mgmtsystem_manual](mgmtsystem_manual/) | 18.0.1.0.0 |  | Management System - Manual
 [mgmtsystem_nonconformity](mgmtsystem_nonconformity/) | 18.0.1.0.0 |  | Management System - Nonconformity
 [mgmtsystem_nonconformity_hr](mgmtsystem_nonconformity_hr/) | 18.0.1.0.0 |  | Bridge module between hr and mgmsystem and
