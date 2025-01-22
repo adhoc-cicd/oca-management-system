@@ -33,6 +33,7 @@ addon | version | maintainers | summary
 [mgmtsystem_info_security_manual](mgmtsystem_info_security_manual/) | 18.0.1.0.0 |  | Information Security Management System Manual
 [mgmtsystem_manual](mgmtsystem_manual/) | 18.0.1.0.0 |  | Management System - Manual
 [mgmtsystem_nonconformity](mgmtsystem_nonconformity/) | 18.0.1.0.0 |  | Management System - Nonconformity
+[mgmtsystem_nonconformity_hazard](mgmtsystem_nonconformity_hazard/) | 18.0.1.0.0 |  | Management System - Nonconformity Hazard
 [mgmtsystem_nonconformity_hr](mgmtsystem_nonconformity_hr/) | 18.0.1.0.0 |  | Bridge module between hr and mgmsystem and
 [mgmtsystem_nonconformity_maintenance_equipment](mgmtsystem_nonconformity_maintenance_equipment/) | 18.0.1.0.0 |  | Management System - Nonconformity Maintenance Equipment
 [mgmtsystem_nonconformity_mrp](mgmtsystem_nonconformity_mrp/) | 18.0.1.0.0 |  | Bridge module between mrp and mgmsystem
